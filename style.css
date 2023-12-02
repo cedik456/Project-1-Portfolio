@@ -315,6 +315,10 @@ section {
   margin: auto 0;
 }
 
+.educ-icon {
+  height: 2.2rem;
+}
+
 /* EXPERIENCE SECTION */
 
 #experience {
@@ -363,10 +367,6 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
-}
-
-#contact .arrow {
-  display: none;
 }
 
 .contact-info-upper-container {
